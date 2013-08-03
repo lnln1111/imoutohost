@@ -1,13 +1,13 @@
-#######################################################################
+ï»¿#######################################################################
 #
 #  imouto.host
 #
 #  #Ver : 1.14.116 Tokisaki Kurumi
 #  #Update Time : 2013.07.08;20:40
-#  #Fix & Bug : Çë²ÎÔÄimouto.host.Readme.txt
+#  #Fix & Bug : è¯·å‚é˜…imouto.host.Readme.txt
 #
-#  Êı¾İÀ´Ô´ÓÚ»¥ÁªÍøÉÏµÄÎŞÃûÓ¢ĞÛÃÇ
-#  ¸ĞĞ»ËûÃÇ£¡
+#  æ•°æ®æ¥æºäºäº’è”ç½‘ä¸Šçš„æ— åè‹±é›„ä»¬
+#  æ„Ÿè°¢ä»–ä»¬ï¼
 #
 #######################################################################
 
@@ -680,7 +680,7 @@
 #Facebook END
 
 #Google Services START
-#Googleapis¡ı
+#Googleapisâ†“
 #74.125.135.95	googleapis.com
 #74.125.135.95	www.googleapis.com
 74.125.135.95	ajax.googleapis.com
@@ -697,8 +697,8 @@
 74.125.235.199	googleapis-ajax.google.com
 74.125.235.199	googleapis-ajax.l.google.com
 173.194.38.138	doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
-#Googleapis¡ü
-#Android¡ı
+#Googleapisâ†‘
+#Androidâ†“
 #74.125.235.198	android.clients.google.com
 #74.125.235.165	android-china.l.google.com
 #74.125.235.165	www-china.l.google.com
@@ -706,23 +706,23 @@
 #74.125.235.165	www2-china.l.google.com
 #74.125.235.165	www3-china.l.google.com
 #74.125.235.165	www4-china.l.google.com
-#Android¡ü
-#Ingress¡ı
+#Androidâ†‘
+#Ingressâ†“
 74.125.135.141	m-dot-betaspike.appspot.com
 74.125.135.141	betaspike.appspot.com
 74.125.135.141	chrometophone.appspot.com
 74.125.135.141	lfe-alpo-gm.appspot.com
-#±¸ÓÃ£¬Å·ÖŞ·şÎñÆ÷£¬ËÙ¶È½ÏÂı#173.194.70.141	betaspike.appspot.com
-#Ingress¡ü
-#GoogleAccounts¡ı
+#å¤‡ç”¨ï¼Œæ¬§æ´²æœåŠ¡å™¨ï¼Œé€Ÿåº¦è¾ƒæ…¢#173.194.70.141	betaspike.appspot.com
+#Ingressâ†‘
+#GoogleAccountsâ†“
 74.125.135.84	accounts.google.com
 74.125.135.84	accounts.youtube.com
 74.125.135.84	accounts.l.google.com
-#GoogleAccounts¡ü
-#GoogleReader¡ı
+#GoogleAccountsâ†‘
+#GoogleReaderâ†“
 173.194.36.17	www.google.com
-#GoogleReader¡ü
-#AndroidGoogleMap¡ı
+#GoogleReaderâ†‘
+#AndroidGoogleMapâ†“
 173.194.36.1	clients.l.google.com
 203.208.46.134	clients1.google.com
 203.208.46.134	clients2.google.com
@@ -731,8 +731,8 @@
 203.208.46.134	clients5.google.com
 203.208.46.134	clients6.google.com
 203.208.46.134	clients7.google.com
-#AndroidGoogleMap¡ü
-#GoogleDrive¡ı
+#AndroidGoogleMapâ†‘
+#GoogleDriveâ†“
 203.208.46.134	drive.google.com
 203.208.46.134	docs.google.com
 203.208.46.134	docs0.google.com
@@ -779,8 +779,8 @@
 203.208.46.189	15.drive.google.com
 203.208.46.189	16.docs.google.com
 203.208.46.189	16.drive.google.com
-#GoogleDrive¡ü
-#Googleusercontent¡ı
+#GoogleDriveâ†‘
+#Googleusercontentâ†“
 203.208.46.202	www.googleusercontent.com
 203.208.46.202	googlehosted.l.googleusercontent.com
 203.208.46.202	oauth.googleusercontent.com
@@ -885,10 +885,10 @@
 203.208.46.202	s6.googleusercontent.com
 203.208.46.202	*.googleusercontent.com
 203.208.46.202	.googleusercontent.com
-#Googleusercontent¡ü
-#Unknow¡ı
+#Googleusercontentâ†‘
+#Unknowâ†“
 #Null
-#Unknow¡ü
+#Unknowâ†‘
 203.208.46.132	answers.google.com
 203.208.46.132	apis.google.com
 203.208.46.132	chart.apis.google.com
